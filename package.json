@@ -1,7 +1,7 @@
 {
   "name": "react-ts-boilerplate",
   "version": "1.0.0",
-  "description": "React Redux Sagas Typescript boileplate",
+  "description": "React Redux Sagas Typescript boilerplate",
   "main": "react/index.tsx",
   "scripts": {
     "start": "parcel react/index.html"
